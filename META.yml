@@ -17,7 +17,7 @@ name: Meta-Builder
 provides:
   Meta::Builder:
     file: lib/Meta/Builder.pm
-    version: 0.002
+    version: 0.003
   Meta::Builder::Base:
     file: lib/Meta/Builder/Base.pm
   Meta::Builder::Util:
@@ -28,4 +28,4 @@ resources:
   bugtracker: http://github.com/exodist/Meta-Builder/issues
   license: http://dev.perl.org/licenses/
   repository: http://github.com/exodist/Meta-Builder
-version: 0.002
+version: 0.003
